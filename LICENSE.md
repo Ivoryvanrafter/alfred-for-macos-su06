@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS secure Helper - cloud-sync and hotkey-customization, the #1 helper. Includes cloud-sync and hotkey-customization for a smoother
 
 
 
